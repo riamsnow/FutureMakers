@@ -14,7 +14,7 @@ DAY 7 - 7/12/2021:<br/>
 **What are “Tensors” and what are they used for in Machine Learning? <br/>**
 Tensors are the primary data structure used by neural networks. Inputs, outputs, and transformations within neural networks are represented by tensors. Tensors are multidimensional arrays and are generalizations. A scalar (index required = 0) is a 0 dimensional tensor. A vector (index required = 1) is a one dimensional tensor. A matrix (index required = 0) is a 2 dimensional tensor. When the index required is above two, in computer science, it is called an nd-array. In math it is called an nd-tensor. This is why a tensor is a generalization, since it can be used to represent any index required.<br/>
 **What did you notice about the computations that you ran in the TensorFlow programs (i.e. interactive models) in the tutorial? <br/>**
-Suppose I have an array called d with 7 elements [1, 2, 3, 4, 5, 6, 7]. Suppose I want to access the number 4 in the data structure. I can do this using a single index d[3]. Suppose I have a 2D array called ff. I need two indexes to refer to the number 7 in the data structure. Using tensorflow, I can also perform matrix mathematical operations, such as multiplication. An example can be found in my GitHub (TensorFlow.ipynb).<br/>
+Suppose I have an array called d with 7 elements [1, 2, 3, 4, 5, 6, 7]. Suppose I want to access the number 4 in the data structure. I can do this using a single index d[3]. Suppose I have a 2D array called ff. I need two indexes to refer to the number 7 in the data structure. Using tensorflow, I can also perform matrix mathematical operations, such as multiplication. An example can be found in TensorFlow.ipynb.<br/>
 
 
 
