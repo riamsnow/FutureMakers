@@ -1,7 +1,7 @@
 # FutureMakers
 Responses <br/>
-<h1>Week 1<h1>
-**DAY 1 - 7/6/2021: <br/>**
+<h1>Week 1<h1> <br/>
+<h2>DAY 1 - 7/6/2021: <h2> <br/>
 I hope to develop a strong base of technical skills in AI that I can build on as I complete future projects. I am also excited to develop career skills which will help me find internships and jobs in the future. <br/>
 **DAY 2 - 7/7/2021:<br/>**
 From Dr. Kong's presentation, I learned that I do, in fact, have a unique story to tell and that by telling my story I can change the world in my own way. I also learned how to envigorate my stories to better capture the attention of my audience. This will be especially useful if I need to persude my audience to support a certain cause. In addition, it was great to hear the stories of people who attended one of Dr. Kong's workshops and how learning how to properly tell their story impacted their journey. <br/>
