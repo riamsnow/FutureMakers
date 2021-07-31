@@ -21,7 +21,7 @@ Suppose I have an array called d with 7 elements [1, 2, 3, 4, 5, 6, 7], and I wa
 <h2>DAY 8 - 7/13/2021:</h2>
 Today, I build a model to detect sarcasm. I found some sample programs which used the Kaggle Dataset (https://www.kaggle.com/rmisra/news-headlines-dataset-for-sarcasm-detection). I then tried taking pieces of different program and getting them to work in my Colab notebook. My Colab noteook compared the performance of three models: a NN, CNN, and LSTM. The results can be found in the chart below. <p>
 | Accuracy| Loss |
-|------------|--------|
+|---|---|
 |NN     | 0.851328  |2.081993|
 |CNN  | 0.856569  |1.647395|
 |LSTM| 0.853774  |0.659341| </p>
