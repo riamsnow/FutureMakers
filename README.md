@@ -19,7 +19,7 @@ Tensors are the primary data structure used by neural networks. Inputs, outputs,
 **What did you notice about the computations that you ran in the TensorFlow programs (i.e. interactive models) in the tutorial? <br/>**
 Suppose I have an array called d with 7 elements [1, 2, 3, 4, 5, 6, 7], and I want to access the number 4 in the data structure. I can do this using a single index d[3]. Suppose, however, I have a 2D array called ff. I need two indexes to refer to the number 7 in the data structure. Using tensorflow, I can also perform matrix mathematical operations, such as multiplication. An example can be found in TensorFlow.ipynb.<br/>
 <h2>DAY 8 - 7/13/2021:</h2>
-Today, I build a model to detect sarcasm. I found some sample programs which used the Kaggle Dataset (https://www.kaggle.com/rmisra/news-headlines-dataset-for-sarcasm-detection). I then tried taking pieces of different program and getting them to work in my Colab notebook. My Colab noteook compared the performance of three models: a NN, CNN, and LSTM. The results can be found in the chart below.
+Today, I build a model to detect sarcasm. I found some sample programs which used the Kaggle Dataset (https://www.kaggle.com/rmisra/news-headlines-dataset-for-sarcasm-detection). I then tried taking pieces of different program and getting them to work in my Colab notebook. My Colab noteook compared the performance of three models: a NN, CNN, and LSTM. The results can be found in the chart below. <br/>
 | Accuracy| Loss |
 |------------|--------|
 |NN     | 0.851328  |2.081993|
