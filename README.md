@@ -24,7 +24,6 @@ Today, I build a model to detect sarcasm. I found some sample programs which use
 |NN     | 0.851328  |2.081993|
 |CNN  | 0.856569  |1.647395|
 |LSTM| 0.853774  |0.659341|
-<br/>
 **DAY 9 - 7/14/2021:<br/>**
 Today, learned about CNNs using this cheatsheet:https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-convolutional-neural-networks. I also learned more about confusion matrices. I then built this model using the MNIST dataset for digit classification.  MNIST2.ipynb
 **DAY 10 - 7/15/2021:<br/>**
