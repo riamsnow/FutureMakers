@@ -1,5 +1,6 @@
 # FutureMakers
 Responses <br/>
+**Week 1 <br/>**
 **DAY 1 - 7/6/2021: <br/>**
 I hope to develop a strong base of technical skills in AI that I can build on as I complete future projects. I am also excited to develop career skills which will help me find internships and jobs in the future. <br/>
 **DAY 2 - 7/7/2021:<br/>**
@@ -10,6 +11,7 @@ ii. The statement Scikit-Learn has the power to visualize data without a Graphvi
 **DAY 4 - 7/9/2021:<br/>**
 Identifying and treating different types of cancers can be a difficult task for doctors depending on the location of tumors and stage of progression. I found a dataset with segmented liver images with digestive cancer. By training a ML model to recognize digestive cancer, doctors can use less invasive procedures for diagnosis. 
 https://www.kaggle.com/fattahuzzaman/ircadresearch-institute-against-digestive-cancer <br/>
+**Week 2 <br/>**
 **DAY 7 - 7/12/2021:<br/>**
 **What are “Tensors” and what are they used for in Machine Learning? <br/>**
 Tensors are the primary data structure used by neural networks. Inputs, outputs, and transformations within neural networks are represented by tensors. Tensors are multidimensional arrays and are generalizations. A scalar (index required = 0) is a 0 dimensional tensor. A vector (index required = 1) is a one dimensional tensor. A matrix (index required = 0) is a 2 dimensional tensor. When the index required is above two, in computer science, it is called an nd-array. In math it is called an nd-tensor. This is why a tensor is a generalization, since it can be used to represent any index required.<br/>
@@ -22,6 +24,12 @@ Today, I build a model to detect sarcasm. I found some sample programs which use
 |NN     | 0.851328  |2.081993|
 |CNN  | 0.856569  |1.647395|
 |LSTM| 0.853774  |0.659341|
+<br/>
+**DAY 9 - 7/14/2021:<br/>**
+Today, learned about CNNs using this cheatsheet:https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-convolutional-neural-networks. I also learned more about confusion matrices. I then built this model using the MNIST dataset for digit classification.  MNIST2.ipynb
+**DAY 10 - 7/15/2021:<br/>**
+Today I played this game: https://www.survivalofthebestfit.com/game/. At first I was able to hire the appropriate number of candidates before time ran out. However, as the game gave me less time, became harder for me to hire the desired number of workers. Thus, I decided to automate the hiring process. I was able to hire candidates quicker, however I also began to receive complaints. Very qualified candidates were being rejected by the algorithmn. I decided to investgate this. I found that one of the skills I put emphasis on when I was hiring candidates was ambition. I did not realize this, but more orange people had higher ambition values. Thus, I began to hire more orange people than blue people. When I automated the process, the bias of hiring more orange than blue people transferred over to my model. While I did use a larger dataset, these implicit biases were still present. Thus I was met with complains and the company had to be shut down. This was a very eye-opening activity. I now realize that companies must be more conscious to not let their implicit biases affect who they are hiring. A real world example of a biased algorithmn is in 2014, Amazon developed a recruiting tool for identifying software engineers it might want to hire; the system swiftly began discriminating against women, and the company abandoned it in 2017. To fix this, the company should look at their hiring history. Mot likely, they hired more men than women. This implicit bias then transferred to the model. Looking forward, the company should be more conscious of who they hire and try to hire more women so that when they automate their hiring process, it does not discriminate against women.
+
 
 
 
