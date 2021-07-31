@@ -1,5 +1,5 @@
 # FutureMakers
-Responses <br/>
+<h1>Responses</h1>
 <h1>Week 1</h1> 
 <h2>DAY 1 - 7/6/2021: </h2> 
 I hope to develop a strong base of technical skills in AI that I can build on as I complete future projects. I am also excited to develop career skills which will help me find internships and jobs in the future. <br/>
