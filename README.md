@@ -43,6 +43,15 @@ Today, I reviewed some of the basics of image classification techniques with ML,
 this notebook. I then reviewed how to build an image classification model using this walkthrough. Finally, I built this model which distinguishes between dogs and cats. dogsandcats.ipynb <br/>
 <h2>DAY 18 - 7/23/2021: </h2>
 Today, I read about how to avoid overfitting in deep learning neural networks. I then studied the second half of this article which discussed overfitting and regularization approaches. Finally, I followed this tutorial about different approaches for handling overfitting in deep learning models using the Twitter US Airline Sentiment data set. twitter.ipynb <br/>  
+<h1>Week 4</h1> 
+<h2>DAY 21 - 7/26/2021: </h2>
+Today, I learned about downsampling and upsampling. I was also introduced to autoencoders. I built this model to practice what I learned. autoencoders.ipynb <br/> 
+<h2>DAY 22 - 7/27/2021: </h2>
+Today, I watched a TED Talk by Professor Rosalid Picard to learn about the origins of Affective Computing. I also read about the EMPath 2020 makeathon and checked out this (https://github.com/MITESHPUTHRANNEU/Speech-Emotion-Analyzer) Speech Emotion Analyzer project by Mitesh Putran. I modified it and used Jupyter Notebook instead of Colab, since it was easier for me to import the necessary packages. My work can be found in Speech_Emotion_Analyzer.ipynb <br/> 
+<h2>DAY 23 - 7/28/2021: </h2>
+Today, I learned about Natural Language Processing to understand how machines make sense of human language. I then built my own Movie Review Classifier moviereviews.ipynb Something important to consider while developing NLP models is that occupational stereotypes may present themselves if developers are not careful. For example, the title nurse may be attributed to the pronouns she or her while the title surgeon may be attributed to the pronouns he or him. <br/> 
+<h2>DAY 24 - 7/29/2021: </h2>
+Today, I was introduced to Computer Vision. I now better understand how machines “see” the visual world and how they can “read” your emotions by looking at your face. I then watch a TED Talk by Rana El Kaliouby - This App Knows How I Feel. Finally, I implement the emotion detection project outlined in this tutorial (https://cbmm.mit.edu/video/tutorial-computer-vision-4817) using OpenCV. My code can be found in Emotion_Detection.ipynb <br/>   
 
 
 
